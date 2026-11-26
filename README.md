@@ -2,7 +2,7 @@
 
 # Endogenous and Exogenous Memory for World Action Models
 
-[Zerui Gong](https://scholar.google.com/citations?user=sjiwhzcAAAAJ)<sup>1*</sup>, [Marina Barannikov](https://marinabarannikov.github.io/)<sup>2*</sup>, [Zhonghua Wu](https://wu-zhonghua.github.io/)<sup>1*†</sup>, Shanshan Lu<sup>2</sup>, [Junjie Gao](https://scholar.google.com/citations?user=av11S3sAAAAJ)<sup>1</sup>, [Zhe Yang](https://savannah-yz.github.io/)<sup>2</sup>, Jinglin He<sup>1</sup>, [Quanzhou Li](https://quanzhou-li.github.io/)<sup>2</sup>, Weijie Qiao<sup>1,2</sup>, [Qinyue Li](https://www.linkedin.com/in/dienachtderwelt/)<sup>1</sup>, [Qingyi Tao](https://truetqy.github.io/)<sup>1</sup>, [Chen Change Loy](https://www.mmlab-ntu.com/person/ccloy/)<sup>2,3</sup>
+[Zerui Gong](https://ry3ng.github.io/)<sup>1*</sup>, [Marina Barannikov](https://marinabarannikov.github.io/)<sup>2*</sup>, [Zhonghua Wu](https://wu-zhonghua.github.io/)<sup>1*†</sup>, Shanshan Lu<sup>2</sup>, [Junjie Gao](https://scholar.google.com/citations?user=av11S3sAAAAJ)<sup>1</sup>, [Zhe Yang](https://savannah-yz.github.io/)<sup>2</sup>, Jinglin He<sup>1</sup>, [Quanzhou Li](https://quanzhou-li.github.io/)<sup>2</sup>, Weijie Qiao<sup>1,2</sup>, [Qinyue Li](https://www.linkedin.com/in/dienachtderwelt/)<sup>1</sup>, [Qingyi Tao](https://truetqy.github.io/)<sup>1</sup>, [Chen Change Loy](https://www.mmlab-ntu.com/person/ccloy/)<sup>2,3</sup>
 
 <sup>1</sup>SenseTime Research, Singapore &nbsp;&nbsp; <sup>2</sup>S-Lab, Nanyang Technological University &nbsp;&nbsp; <sup>3</sup>ACE Robotics
 
